@@ -39,6 +39,12 @@ This is a Spotify display featuring three mechanical keyboard keys controlling p
 | Mechanical keyboard Switches    | for play,pause, repeat rewind, forward, volume control    | 1    | $1.80    | $1.80   |  [Link](https://neomacro.in/products/outemu-peach-v3-silent)   |
 | Seeed studio ESP32-c3    | Main brain and wifi      | 1    | $6.27    |  $6.27  | [Link](https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWckf5S_9ZmCJo0d1FgRauqu4&gclid=CjwKCAjw46HPBhAMEiwASZpLRD666aUOUCEpC1sDpOfgMxhmmYdjcuywyzqRLT0jIkqJaipnn6vFIhoCTwEQAvD_BwE)   |
 |Total | | |  | | $16.73 |
-|Round Off Total  | | |  | | $18 |
+|Round Off Total  | | |  | | $20 |
+## For 3d Printing I will use Legion and it cost $1.5
+|TAX (USD) |SHIPPING (USD)|
+|:-- | :--| 
+|$0.26| $3.9|
+|Total Cost Including (3d print, shipping & Tax) | $20 |
 
-Project Under **Hack Club** 
+---
+## Project Under **Hack Club** 
