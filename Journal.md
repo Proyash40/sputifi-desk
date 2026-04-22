@@ -1,4 +1,11 @@
 ## Journal :-
+
+| Title | Sputifi-Desk |
+| :-- | :---|
+|Author | Proyash Kumar Sarkar (Godspeed)|
+|Project Tire | 1|
+
+
 ### Designing
 
 Today i started by finding the materials required, then i with full confidence started connecting the wires of the component, then while running the ERC, the app gave a huge list of error 😂 Tho i didnt quite gave up, i called one of my frnd, he asisted me by guiding. tho according to him, i read the schdematic, pin layouts, then after aprroximately 3 hrs I was done with connecting the wires, then ran with some minor error fixing, with an total of nearly 3hrs nd 45mins i got the final schematic
