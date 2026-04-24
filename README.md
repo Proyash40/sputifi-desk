@@ -45,4 +45,8 @@ This is a Spotify display featuring three mechanical keyboard keys controlling p
 |$0.26| $3.9|
 
 ---
+
+The case (the shown CAD file, is just to give an idea of how it looks, i myself would use a plastic box which nearly has the same dimensions, just some handcrafts nd it'd be all good
+
+
 ## Project Under **Hack Club** 
