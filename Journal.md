@@ -41,5 +41,4 @@ So finally after web screapping a lot, i found the materials i required and addi
 
 #### funny part
 
-For statis, 3d printing was done by Printing Legion, which only costed around $1.5....i didn't expect this low
-
+I'd not use this CAD file, I'd use a plastic box, I already own, make some necessary changes  nd save some extra penny. 😋
