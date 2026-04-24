@@ -41,4 +41,4 @@ So finally after web screapping a lot, i found the materials i required and addi
 
 #### funny part
 
-I'd not use this CAD file, I'd use a plastic box, I already own, make some necessary changes  nd save some extra penny. 😋
+I'd not use this CAD file, I'd use a plastic box, I already own, make some necessary changes  nd save some extra penny. I made just for experience. 😋
